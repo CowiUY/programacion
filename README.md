@@ -14,3 +14,6 @@ Empresa MiEmpresa - Ingreso de Empleados
 En la opción 1, De los empleados a ingresar en planilla laboral se solicita:
 documento de identidad, nombre, apellido, edad, dirección, teléfono de contacto y si tiene hijos o no.
 Al presionar la opción 2, el programa mostrará los datos del Empleado. Además, si el Empleado tiene hijos, mostrará el mensaje "Le corresponde Asignación Familiar". En lo contrario, mostrará "Sin hijos a cargo."
+
+
+Si ves un error o algo que podría mejorar (ya sea en algún programa o en el README, no dudes en forkear y hacer un PR :D)
