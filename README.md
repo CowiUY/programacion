@@ -1,6 +1,6 @@
 # Programación Gabriel Moreira 1°BC	
 
-Hola, creé este repo porque sentía que entregar los ejercicios de programación en texto plano quedaba desprolijo. Acá están los ejercicios categorizados por fecha y con su consigna>
+Hola, creé este repo porque sentía que entregar los ejercicios de programación en texto plano quedaba desprolijo. Acá están los ejercicios categorizados por fecha y con su consigna:
 
 
 # Día 21/9/2020
