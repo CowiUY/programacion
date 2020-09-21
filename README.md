@@ -1,24 +1,16 @@
 # Programación Gabriel Moreira 1°BC	
 
-Hola, creé este repo porque sentía que entregar los ejercicios de programación en texto plano quedaba desprolijo. Si no sabés por dónde emepzar, acá tenés una TOC (table of content) :D
+Hola, creé este repo porque sentía que entregar los ejercicios de programación en texto plano quedaba desprolijo. Acá están los ejercicios categorizados por fecha y con su consigna>
 
 
-Table of contents
-=================
+# Día 21/9/2020
 
-<!--ts-->
-   * [Ejercicios día ](https://youtube.com)
-   * [Table of contents](#table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-<!--te-->
-
+ - [Asignación familiar con switch](programaMenu.java)
+> Realice un programa que muestre el siguiente menú :
+Empresa MiEmpresa - Ingreso de Empleados
+1- Ingresar Empleado
+2- Mostrar datos y beneficio de asignación familiar
+3- Salir
+En la opción 1, De los empleados a ingresar en planilla laboral se solicita:
+documento de identidad, nombre, apellido, edad, dirección, teléfono de contacto y si tiene hijos o no.
+Al presionar la opción 2, el programa mostrará los datos del Empleado. Además, si el Empleado tiene hijos, mostrará el mensaje "Le corresponde Asignación Familiar". En lo contrario, mostrará "Sin hijos a cargo."
