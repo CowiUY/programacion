@@ -1,4 +1,4 @@
-# Programación Gabriel Moreira 1°BC	
+# Programación Gabriel Moreira 1 / 2°BC	
 
 Hola, creé este repo porque sentía que entregar los ejercicios de programación en texto plano quedaba desprolijo. Acá están los ejercicios categorizados por fecha y con su consigna:
 
